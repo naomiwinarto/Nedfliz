@@ -1,1 +1,0 @@
-NEDFLIZ is a program that can helps user to manage movies (add movie, view movie, and delete movie) using C language and Chaining Hash Table data structure.
